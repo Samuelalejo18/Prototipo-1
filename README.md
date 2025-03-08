@@ -6,7 +6,7 @@ Un prototipo simple de Guitar Hero implementado con HTML, CSS y JavaScript. Toca
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Samuelalejo18/Prototipo-1
+   git clone https://github.com/Samuelalejo18/Prototipo-1.git
    cd guitar-hero-prototype
    ```
 2. Abre `index.html` en tu navegador.
